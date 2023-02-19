@@ -6,6 +6,9 @@ contributor:
     agent_name: Newspaper Illustrations, Ltd.
     gutenberg_agent_id: '55445'
     url: http://www.gutenberg.org/2009/agents/55445
+covers:
+- cover_type: archival
+  image_path: 69834-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69834#Seven-years-in-Vienna-August-1907-August-1914-a-record-of-intrigue
 gutenberg_issued: '2023-01-18'
 identifiers:
   gutenberg: '69834'
